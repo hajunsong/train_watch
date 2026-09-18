@@ -3,6 +3,7 @@ __pycache__/
 .venv/
 .env
 screenshots/
+ad_skip.json
 templates/
 *.png
 *.xml
